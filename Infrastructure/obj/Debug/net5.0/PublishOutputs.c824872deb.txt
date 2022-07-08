@@ -1,0 +1,13 @@
+C:\Users\adrian\projects\DSMSystems\publish\Infrastructure.dll
+C:\Users\adrian\projects\DSMSystems\publish\Infrastructure.deps.json
+C:\Users\adrian\projects\DSMSystems\publish\Infrastructure.pdb
+C:\Users\adrian\projects\DSMSystems\publish\AWSSDK.Core.dll
+C:\Users\adrian\projects\DSMSystems\publish\AWSSDK.SimpleEmail.dll
+C:\Users\adrian\projects\DSMSystems\publish\Core.dll
+C:\Users\adrian\projects\DSMSystems\publish\Microsoft.Extensions.Options.dll
+C:\Users\adrian\projects\DSMSystems\publish\Microsoft.Extensions.Primitives.dll
+C:\Users\adrian\projects\DSMSystems\publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\adrian\projects\DSMSystems\publish\Core.pdb
+C:\Users\adrian\projects\DSMSystems\publish\Microsoft.Extensions.Options.xml
+C:\Users\adrian\projects\DSMSystems\publish\Microsoft.Extensions.Primitives.xml
+C:\Users\adrian\projects\DSMSystems\publish\Microsoft.Extensions.DependencyInjection.Abstractions.xml

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CsN6coBtfn1MKjP9Fw0yJxDIW8if8uvYOxDz6NiOeY5DAvOwxXc3jn9cRpx5hx91xypaGdh8h64pilScUm08SA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adrian\\projects\\DSMSystems\\Infrastructure\\Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adrian\\.nuget\\packages\\awssdk.core\\3.5.2.4\\awssdk.core.3.5.2.4.nupkg.sha512",
+    "C:\\Users\\adrian\\.nuget\\packages\\awssdk.simpleemail\\3.5.0.65\\awssdk.simpleemail.3.5.0.65.nupkg.sha512"
+  ],
+  "logs": []
+}

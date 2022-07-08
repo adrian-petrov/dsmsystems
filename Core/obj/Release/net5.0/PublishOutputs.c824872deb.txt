@@ -1,0 +1,3 @@
+C:\Users\adrian\projects\DSMSystems\publish\Core.dll
+C:\Users\adrian\projects\DSMSystems\publish\Core.deps.json
+C:\Users\adrian\projects\DSMSystems\publish\Core.pdb

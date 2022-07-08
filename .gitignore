@@ -1,0 +1,9 @@
+.DS_STORE
+.idea
+.vs
+node_modules/
+.cache/
+public
+build
+publish
+appsettings.*
